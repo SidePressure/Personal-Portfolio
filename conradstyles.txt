@@ -1,0 +1,26 @@
+body { background-color: maroon; }
+
+h1 { background-color: cyan; text-align: center; }
+
+p { background-color: lightgray; text-align: center }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: center;
+}
+
+li a {
+  text-align: center;
+  display: block;
+  width: 200px;
+  padding: 16px;
+  border-width: 4px;
+  border-style: solid;
+  background-color: cyan;
+}
